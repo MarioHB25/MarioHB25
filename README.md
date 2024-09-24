@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mario Hidalgo Berrocal</h1>
 
 <p align="center">I’m a Full-Stack WEB Developer and a Technology Student</p>
+<br>
 <img align="right" alt="Coding" width="350" src="https://i.gifer.com/6M8G.gif">
 
 <br>
@@ -19,38 +20,45 @@
 
 <hr width="36%" >
 
+<br>
+
+<h3>About Me</h3>
+
+<br>
+
+- :technologist: I love using Software as a solution for every `Problem`
+- :nerd_face: Always `learning new things`
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY CV](<!--link al cv-->)
+- :violin: I'm an experienced classical music performer
+- :headphones: My hobby is collecting music in vinyl format
+  
+<hr width="60%" >
+  
+<br>
+
 <h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioHB25)](https://github.com/MarioHB25/github-readme-stats)
 
-<br><br><br><br><br><br><br>
+<img align="right" alt="Coding" width="250" 
+src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG45eDVuaWhlMW8yY2xvZWh0MTZ4OGh6ODN5OHdlanRjN252amxqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHKpDOhJnZ0IcOh22t/giphy.gif" >
 
 <hr width="60%" >
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
   <a href="https://linkedin.com/in/anirudh-rai-072732220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="30" /></a>
-  <a href="https://www.google.com/intl/es/gmail/about/" target="blank"><img align="center" src="https://svgshare.com/i/1AiZ.svg" height="30" width="30" /></a>
+  &nbsp
+  <a href="mailto:marhber25@gmail.com" target="_blank"><img  align="center" src="https://svgshare.com/i/1AiZ.svg" height="30" width="30" />
+    &nbsp
+  <a href="https://github.com/MarioHB25" target="_blank"><img  align="center" src="https://svgshare.com/i/1AjG.svg" height="35" width="35" />
 </p>
 
 ------
 
 [MarioHB25](https://github.com/MarioHB25)
-
-<!--
-**MarioHB25/MarioHB25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
