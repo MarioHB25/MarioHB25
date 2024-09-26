@@ -44,13 +44,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioHB25)](https://github.com/MarioHB25/github-readme-stats)
 
-
-
 <hr width="60%" >
 
 <br>
-
-</details>
 	
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
@@ -61,7 +57,6 @@
 	<a href="https://github.com/MarioHB25/Python.-Essential-exercises">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioHB25&repo=Python.-Essential-exercises&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	
   </p>
 </div>
 </details>
