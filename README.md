@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mario Hidalgo Berrocal</h1>
 
-<p align="center">I’m a Full-Stack WEB Developer and a Technology Student</p>
+<p align="center">I’m a spanish Full-Stack WEB Developer and a Technology Student</p>
 <br>
 <img align="right" alt="Coding" width="350" src="https://i.gifer.com/6M8G.gif">
 
@@ -58,8 +58,8 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioHB25&repo=Python.-Essential-exercises&theme=tokyonight" alt="GitHub Stats"/>
     	</a>
 	  &nbsp
-   	<a href="https://github.com/MarioHB25/HTML-CSS-SCSS-Web-development-and-design">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioHB25&repo=HTML-CSS-SCSS-Web-development-and-design&theme=tokyonight" 			alt="GitHub Stats"/>
+   	<a href="https://github.com/MarioHB25/Web-development-and-design">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioHB25&repo=Web-development-and-design&theme=tokyonight" 			alt="GitHub Stats"/>
     	</a>
   </p>
 </div>
