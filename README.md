@@ -55,7 +55,11 @@
 <div>
   <p align="center">
 	<a href="https://github.com/MarioHB25/Python.-Essential-exercises">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioHB25&repo=Python.-Essential-exercises&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioHB25&repo=Python.-Essential-exercises&theme=tokyonight" alt="GitHub Stats"/>
+    	</a>
+	  &nbsp
+   	<a href="https://github.com/MarioHB25/HTML-CSS-SCSS-Web-development-and-design">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioHB25&repo=HTML-CSS-SCSS-Web-development-and-design&theme=tokyonight" 			alt="GitHub Stats"/>
     	</a>
   </p>
 </div>
@@ -74,9 +78,9 @@ src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG45eDVuaWhlMW8yY2xvZWh0MTZ4OG
 
 <p align="left">
   <a href="https://linkedin.com/in/anirudh-rai-072732220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="30" /></a>
-  &nbsp
+&nbsp
   <a href="mailto:marhber25@gmail.com" target="_blank"><img  align="center" src="https://svgshare.com/i/1AiZ.svg" height="30" width="30" /></a>
-    &nbsp
+&nbsp
   <a href="https://github.com/MarioHB25" target="_blank"><img  align="center" src="https://svgshare.com/i/1AjG.svg" height="35" width="35" /></a>
 </p>
 
