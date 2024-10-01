@@ -18,11 +18,12 @@
 	<a align="center" href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" 			height="50"/></a>&nbsp
   	<a align="center" href="https://sass-lang.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="60" height="60"/></a>&nbsp
   	<a align="center" href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" 				height="50"/></a>&nbsp
-  	<a align="center" href="https://vitejs.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="vite" width="45" height="45"/></a>
+  	<a align="center" href="https://vitejs.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="vite" width="45" height="45"/></a>&nbsp
+	<a align="center" href="https://anaconda.org/anaconda/conda" target="_blank"><img src="https://svgshare.com/i/1B0R.svg" alt="conda" width="50" height="50"/></a>
 </p>
 
 
-<hr width="47%" >
+<hr width="52%" >
 
 <br>
 
