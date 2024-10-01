@@ -58,7 +58,8 @@
 <div>
   <p align="center">
 	<a href="https://github.com/MarioHB25/Python.-Essential-exercises"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioHB25&repo=Python.-Essential-exercises&theme=tokyonight" 			alt="GitHub Stats"/></a>&nbsp
-   	<a href="https://github.com/MarioHB25/Web-development-and-design-I"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioHB25&repo=Web-development-and-design-I&theme=tokyonight" alt="GitHub 		Stats"/></a>&nbsp
+	  <a href="https://github.com/MarioHB25/Web-development-and-design"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioHB25&repo=Web-development-and-design&theme=tokyonight" 			alt="GitHub Stats"/></a>&nbsp
+   	<a href="https://github.com/MarioHB25/Web-development-and-design-I"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioHB25&repo=Web-development-and-design-I&theme=tokyonight" 			alt="GitHub Stats"/></a>&nbsp
    	<a href="https://github.com/MarioHB25/Web-development-and-design-II"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioHB25&repo=Web-development-and-design-II&theme=tokyonight" 			alt="GitHub Stats"/></a>&nbsp
    	<a href="https://github.com/MarioHB25/Web-development-and-design-III"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioHB25&repo=Web-development-and-design-III&theme=tokyonight" 		alt="GitHub Stats"/></a>&nbsp
 	<a href="https://github.com/MarioHB25/Web-development-and-design-IV"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioHB25&repo=Web-development-and-design-IV&theme=tokyonight" 			alt="GitHub Stats"/></a>&nbsp
