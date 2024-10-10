@@ -25,7 +25,7 @@
 
 
 
-<hr width="52%" >
+<hr width="55%" >
 
 <br>
 
