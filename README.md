@@ -86,7 +86,7 @@ src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG45eDVuaWhlMW8yY2xvZWh0MTZ4OG
 <br>
 
 <p align="left">
-  <a href="https://linkedin.com/in/anirudh-rai-072732220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="30" /></a>
+  <a href="https://linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="30" /></a>
 &nbsp
   <a href="mailto:marhber25@gmail.com" target="_blank"><img  align="center" src="https://svgshare.com/i/1AiZ.svg" height="30" width="30" /></a>
 &nbsp
