@@ -35,7 +35,7 @@
 
 - :technologist: I love using Software as a solution for every `Problem`
 - :nerd_face: Always `learning new things`
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY CV](https://drive.google.com/file/d/1EpV82hGlR-gX_EuSdAJjH4vN5BAvRlYM/view?usp=sharing)
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY CV](https://drive.google.com/file/d/1DMAd8oBohDtGRitoO15pcN1TccGiE7iv/view?usp=drive_link)
 - :violin: I'm an experienced classical music performer
 - :headphones: My hobby is collecting music in vinyl format
   
